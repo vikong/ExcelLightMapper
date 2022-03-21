@@ -1,7 +1,8 @@
 # ExcelLightMapper
-Lightweight mapper for [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)
-The library reads rows from Excel sheet(s) and maps it to an your POCOs objects.
-A flexible fluent mapping system allows you to customize the way the row is mapped to an object.
+Lightweight mapper for [ExcelDataReader library](https://github.com/ExcelDataReader/ExcelDataReader)  
+ExcelLightMapper allows to read rows from Excel sheet(s) and maps it to your POCOs objects.
+A flexible fluent mapping system customize the way the row is mapped to an object.  
+Example:  
 ```csharp
 public class PocoObject
 {
