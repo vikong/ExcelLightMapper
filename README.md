@@ -16,7 +16,7 @@ public class PocoObject
 //...
 
 // create map
-var mapper = new RowMapper<Primitive>();
+var mapper = new RowMapper<PocoObject>();
 
 // specify required range, if need
 mapper.FromRows(3);
