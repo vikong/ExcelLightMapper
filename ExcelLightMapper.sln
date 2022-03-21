@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLightMapper", "ExcelLightMapper\ExcelLightMapper.csproj", "{DE2D6C18-461D-49BD-9319-ADB5522F495E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelLightMapper.Test", "ExcelLightMapper.Test\ExcelLightMapper.Test.csproj", "{A521B8E9-DD1D-4434-A16F-722CA48D8DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2D6C18-461D-49BD-9319-ADB5522F495E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2D6C18-461D-49BD-9319-ADB5522F495E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2D6C18-461D-49BD-9319-ADB5522F495E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2D6C18-461D-49BD-9319-ADB5522F495E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A521B8E9-DD1D-4434-A16F-722CA48D8DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A521B8E9-DD1D-4434-A16F-722CA48D8DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A521B8E9-DD1D-4434-A16F-722CA48D8DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A521B8E9-DD1D-4434-A16F-722CA48D8DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4250D1D9-04FE-4A40-A042-9C370C20A17F}
+	EndGlobalSection
+EndGlobal
